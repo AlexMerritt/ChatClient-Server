@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\BroadcastApp\CSChat\bin\Debug\CSChat.exe.config
+C:\Users\Alex\Desktop\BroadcastApp\CSChat\bin\Debug\CSChat.exe
+C:\Users\Alex\Desktop\BroadcastApp\CSChat\bin\Debug\CSChat.pdb
+C:\Users\Alex\Desktop\BroadcastApp\CSChat\obj\Debug\CSChat.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\BroadcastApp\CSChat\obj\Debug\CSChat.exe
+C:\Users\Alex\Desktop\BroadcastApp\CSChat\obj\Debug\CSChat.pdb
